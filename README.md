@@ -10,6 +10,12 @@ Roll the dice and test your luck with Dice-Game, a simple yet engaging web appli
 
 - ⚛️ React
 
+## Project Screenshot
+
+Here are some screenshots of the project:
+
+![Homepage screenshot](assets/Img_demo1.png)
+![Dashboard screenshot](assets/Img_demo2.png)
 
 ## 📦 Key Dependencies
 
